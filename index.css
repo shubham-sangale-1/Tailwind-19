@@ -1,0 +1,7 @@
+header{
+    background-color: black;
+    color: white !important;
+}
+header input::placeholder{
+    color: white !important;
+}
